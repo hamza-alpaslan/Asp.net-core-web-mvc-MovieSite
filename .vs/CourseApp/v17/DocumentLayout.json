@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|c:\\users\\user\\desktop\\.net mvc projesi\\courseapp\\courseapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\courseapp\\views\\shared\\components\\categorymenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\views\\shared\\components\\categorymenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|c:\\users\\user\\desktop\\.net mvc projesi\\courseapp\\courseapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\courseapp\\models\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\models\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\courseapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\courseapp\\models\\allcatandmov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\models\\allcatandmov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\courseapp\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\courseapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\courseapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\courseapp\\views\\shared\\_movies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\views\\shared\\_movies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\courseapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\courseapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\courseapp\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\courseapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\courseapp\\models\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\models\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\courseapp\\models\\fordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F50491-B56D-4B7B-B04C-F1035302817E}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\models\\fordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 288,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "CourseApp\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "CourseApp\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T10:26:50.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ForDetails.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Models\\ForDetails.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Models\\ForDetails.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Models\\ForDetails.cs",
+              "RelativeToolTip": "CourseApp\\Models\\ForDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:15:07.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Models\\Category.cs",
+              "RelativeToolTip": "CourseApp\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:21:31.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "CourseApp\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "RelativeToolTip": "CourseApp\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T11:03:52.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Models\\Repo.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Models\\Repo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Models\\Repo.cs",
+              "RelativeToolTip": "CourseApp\\Models\\Repo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwCkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:23:59.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Models\\Movie.cs",
+              "RelativeToolTip": "CourseApp\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:12:49.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CourseApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CourseApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T05:54:08.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllCatandMov.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Models\\AllCatandMov.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Models\\AllCatandMov.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Models\\AllCatandMov.cs",
+              "RelativeToolTip": "CourseApp\\Models\\AllCatandMov.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:57:32.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Models\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Models\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Models\\CategoryRepo.cs",
+              "RelativeToolTip": "CourseApp\\Models\\CategoryRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:22:08.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CourseApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:28:10.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "CourseApp\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "CourseApp\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T09:26:03.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CourseApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CourseApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAIAwwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T11:46:03.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Movies.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Views\\Shared\\_Movies.cshtml",
+              "RelativeDocumentMoniker": "CourseApp\\Views\\Shared\\_Movies.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Views\\Shared\\_Movies.cshtml",
+              "RelativeToolTip": "CourseApp\\Views\\Shared\\_Movies.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T06:12:11.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "CourseApp\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "CourseApp\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T06:11:14.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CourseApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:00:16.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\.net mvc projesi\\CourseApp\\CourseApp\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "CourseApp\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:12:28.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

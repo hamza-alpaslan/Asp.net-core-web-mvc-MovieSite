@@ -1,0 +1,21 @@
+﻿@model Movie
+
+<div class="row">
+    <div class="col-sm-3">@await Component.InvokeAsync("CategoryMenu")</div>
+    <div class="col-sm-7">
+        <div class="card text-bg-dark mb-3" >
+            <div class="row g-0">
+                <div class="col-md-4">
+                    <img src="~/img/@Model.ImgURL" class="img-fluid rounded-start" alt="...">
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.Name</h5>
+                        <p class="card-text">@ViewBag.Cat</p>
+                        <p class="card-text">@Model.Description</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

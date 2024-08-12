@@ -1,0 +1,10 @@
+﻿@model List<Category>
+
+<div class="list-group ">
+    <a href="/Home" class="list-group-item list-group-item-action" style="background-color:#887456"><p style="color:white; margin:0">All categories</p></a>
+    @foreach (var i in Model)
+    {
+        <a href="/Home/Index/@i.Id" class="list-group-item list-group-item-action list-group-color bg-dark"><p style="color:white; margin:0">@i.Name</p></a>
+    }
+
+</div>
